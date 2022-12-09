@@ -1,6 +1,8 @@
 # Proyecto324
 Este es el proyecto realizado para la materia de INF 324
+
 Proyecto : Workflow Financiero
+
 Integrantes:
 
 1.- Barra Paredes Enrique Luis 
